@@ -1,0 +1,28 @@
+{
+  "name": "ian-parse-json",
+  "version": "1.0.0",
+  "description": "supermooi",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RijkvanZanten/ian-parse-json.git"
+  },
+  "keywords": [
+    "ian",
+    "parse",
+    "json"
+  ],
+  "author": "Rijk van Zanten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RijkvanZanten/ian-parse-json/issues"
+  },
+  "homepage": "https://github.com/RijkvanZanten/ian-parse-json#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
