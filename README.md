@@ -1,6 +1,6 @@
 # ian-parse-json
 
-[![npm version](https://badge.fury.io/js/ian-parse-json.svg)](https://badge.fury.io/js/ian-parse-json)
+[![NPM](https://nodei.co/npm/ian-parse-json.png)](https://nodei.co/npm/ian-parse-json/)
 
 supermooi, groetjes van Sjaak
 
