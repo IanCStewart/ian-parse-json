@@ -1,12 +1,14 @@
-const parse = require('../index');
+const Ian = require('../index');
 const expect = require('chai').expect;
+
+const ian = new Ian();
 
 describe('JSON parser', () => {
   it('parses JSON', () => {
-    expect(parse.JSON("{\"name\":\"ian\"}")).to.deep.equal({name: 'ian'});
+    expect(ian.parse("{\"name\":\"ian\"}")).to.deep.equal({name: 'ian'});
   });
 
   it('fails when no valid JSON is given', () => {
-    expect(() => { parse.JSON('malle henkie'); }).to.throw(SyntaxError);
+    expect(() => { ian.parse('malle henkie'); }).to.throw(SyntaxError);
   });
 });
