@@ -1,5 +1,7 @@
 # ian-parse-json
 
+[![npm version](https://badge.fury.io/js/ian-parse-json.svg)](https://badge.fury.io/js/ian-parse-json)
+
 supermooi, groetjes van Sjaak
 
 ## Usage
