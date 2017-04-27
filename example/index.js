@@ -1,5 +1,7 @@
-const parse = require('ian-parse-json');
+const Ian = require('ian-parse-json');
 
-const parsedJSON = parse.JSON("{\"name\":\"ian\"}");
+const ian = new Ian();
+
+const parsedJSON = ian.parse("{\"name\":\"ian\"}");
 
 console.log(parsedJSON); // {name: 'ian'}
