@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RijkvanZanten/ian-parse-json.git"
+    "url": "git+https://github.com/IanCStewart/ian-parse-json.git"
   },
   "keywords": [
     "ian",
     "parse",
     "json"
   ],
-  "author": "Rijk van Zanten",
+  "author": "Ian Stewart",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RijkvanZanten/ian-parse-json/issues"
+    "url": "https://github.com/IanCStewart/ian-parse-json/issues"
   },
-  "homepage": "https://github.com/RijkvanZanten/ian-parse-json#readme",
+  "homepage": "https://github.com/IanCStewart/ian-parse-json#readme",
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.1.2"
