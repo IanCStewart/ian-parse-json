@@ -2,7 +2,7 @@
 
 [![NPM](https://nodei.co/npm/ian-parse-json.png)](https://nodei.co/npm/ian-parse-json/)
 
-supermooi, groetjes van Sjaak
+supermooi!
 
 ## Usage
 
